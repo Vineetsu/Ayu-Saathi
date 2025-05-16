@@ -43,9 +43,11 @@
 
 > Below are screenshots/previews of the Ayu-Saathi platform.
 
-| Home Page | Doctor Consultation |
-|-----------|---------------------|
-| ![Home Page](public/Screenshot 2025-05-16 181818.png) | ![Disease analysis](public/Screenshot 2025-05-16 181852.png) |
+Home Page 
+ <img src="public/Screenshot 2025-05-16 181818.png  " alt="img1" />
+
+Government Schemes
+<img src=" public/Screenshot 2025-05-16 181914.png" alt="img1" /> 
 
 > _Tip: Save your images inside the `/assets/` folder or upload them and link with raw GitHub URLs._
 
