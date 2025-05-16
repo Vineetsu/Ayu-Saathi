@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+# Ayu-Saathi 💊🌿
 
-## Project info
+**Ayu-Saathi** is a bilingual healthcare platform designed especially for people in **rural and semi-urban areas**, where access to quality medical care is often limited. It empowers users with easy, affordable, and accessible healthcare solutions by bridging the communication, knowledge, and economic gaps in the current system.
 
-**URL**: https://lovable.dev/projects/4a0be1d0-8932-456f-81d2-5fdb9dcd7836
+---
 
-## How can I edit this code?
+## 🧩 Real-World Problems Addressed
 
-There are several ways of editing your application.
+- 📞 **Improper Communication** with healthcare providers  
+- 🌐 **Language Barrier** for non-English speakers  
+- 📚 **Lack of Knowledge** about medical terms and conditions  
+- 🏥 **Limited Access** to specialized doctors  
+- 💸 **Economic Challenges** in affording quality healthcare  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4a0be1d0-8932-456f-81d2-5fdb9dcd7836) and start prompting.
+## ✅ How Ayu-Saathi Solves These
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🗣️ **Bilingual Interface** – Supports **Kannada and English**  
+- 🎥 **One-on-One Video Consultations** with specialized doctors  
+- 🤖 **Disease Analysis** using NLTK models (NLP) based on symptoms  
+- 🔊 **Text-to-Speech (TTS)** in Kannada using **gTTS**  
+- 📂 **Medical Record Management**  
+- 🏛️ **Government Scheme Integration**  
+- 💬 **Medical Chatbot** to simplify medical jargon  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧪 Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+| Layer            | Technology Used                    |
+|------------------|------------------------------------|
+| Frontend         | React, Tailwind CSS                |
+| Backend          | Node.js, Express.js                |
+| Database         | MongoDB                            |
+| AI & Analysis    | Python, Django, NLTK               |
+| Text-to-Speech   | Google Text-to-Speech (gTTS)       |
+| Video Consults   | WebRTC / Video SDK Integration     |
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🖼️ Website Preview
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+> Below are screenshots/previews of the Ayu-Saathi platform.
 
-# Step 3: Install the necessary dependencies.
-npm i
+| Home Page | Doctor Consultation |
+|-----------|---------------------|
+| ![Home Page](assets/homepage.png) | ![Doctor Call](assets/doctor_call.png) |
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+> _Tip: Save your images inside the `/assets/` folder or upload them and link with raw GitHub URLs._
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🚀 Getting Started
 
-**Use GitHub Codespaces**
+### Prerequisites
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Node.js and npm
+- Python 3.x
+- MongoDB
+- Django and pip dependencies
 
-## What technologies are used for this project?
+### Setup
 
-This project is built with:
+1. **Clone the repository**
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/4a0be1d0-8932-456f-81d2-5fdb9dcd7836) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+   ```bash
+   git clone https://github.com/Vineetsu/Ayu-Saathi.git
+   cd Ayu-Saathi
