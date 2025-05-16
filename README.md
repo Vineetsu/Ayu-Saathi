@@ -45,7 +45,7 @@
 
 | Home Page | Doctor Consultation |
 |-----------|---------------------|
-| ![Home Page](assets/homepage.png) | ![Doctor Call](assets/doctor_call.png) |
+| ![Home Page](public/Screenshot 2025-05-16 181818.png) | ![Disease analysis](assets/doctor_call.png) |
 
 > _Tip: Save your images inside the `/assets/` folder or upload them and link with raw GitHub URLs._
 
