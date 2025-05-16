@@ -46,10 +46,11 @@
 Home Page 
  <img src="public/Screenshot 2025-05-16 181818.png  " alt="img1" />
 
-Government Schemes
-<img src=" public/Screenshot 2025-05-16 181914.png" alt="img1" /> 
 
-> _Tip: Save your images inside the `/assets/` folder or upload them and link with raw GitHub URLs._
+
+Government Schemes
+<img src="public/Screenshot 2025-05-16 181914.png" alt="img1" /> 
+
 
 ---
 
