@@ -1,4 +1,4 @@
-# Ayu-Saathi 💊🌿
+# Ayu-Saathi 💊
 
 **Ayu-Saathi** is a bilingual healthcare platform designed especially for people in **rural and semi-urban areas**, where access to quality medical care is often limited. It empowers users with easy, affordable, and accessible healthcare solutions by bridging the communication, knowledge, and economic gaps in the current system.
 
