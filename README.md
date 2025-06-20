@@ -32,10 +32,8 @@
 |------------------|------------------------------------|
 | Frontend         | React, Tailwind CSS                |
 | Backend          | Node.js, Express.js                |
-| Database         | MongoDB                            |
 | AI & Analysis    | Python, Django, NLTK               |
 | Text-to-Speech   | Google Text-to-Speech (gTTS)       |
-| Video Consults   | WebRTC / Video SDK Integration     |
 
 ---
 
